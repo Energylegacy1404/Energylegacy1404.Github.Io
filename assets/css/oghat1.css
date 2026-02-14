@@ -1,5 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
+.project-story,.card-body,.fossil-text p,.global-solutions p,
+.rahkar-card .card-content p,.energy-card p
+{/*.container-fluid:nth-child(n+2) p*/
+    text-align: justify !important ;
+	text-justify:inter-word;
+}
 /* * {
             margin: 0;
             padding: 0;
@@ -295,4 +301,5 @@
         .icon-dhuhr:before { content: "☀️ "; font-size: 0.7rem; }
         .icon-asr:before { content: "⛅ "; font-size: 0.7rem; }
         .icon-maghrib:before { content: "🌇 "; font-size: 0.7rem; }
+
         .icon-ishaa:before { content: "🌙 "; font-size: 0.7rem; }
