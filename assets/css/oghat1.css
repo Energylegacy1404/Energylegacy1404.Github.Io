@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 .project-story,.card-body,.fossil-text p,.global-solutions p,
-.rahkar-card .card-content p,.energy-card p
+.rahkar-card .card-content p,.energy-card p,#portfolio p
 {/*.container-fluid:nth-child(n+2) p*/
     text-align: justify !important ;
 	text-justify:inter-word;
@@ -303,3 +303,4 @@
         .icon-maghrib:before { content: "🌇 "; font-size: 0.7rem; }
 
         .icon-ishaa:before { content: "🌙 "; font-size: 0.7rem; }
+
