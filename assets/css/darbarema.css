@@ -44,8 +44,8 @@ header {
     height: 500px;
 }
 .my-img{
-  width: 60px;
-  height: 60px;
+  width: 45px;
+  height: 45px;
  }
 
 /* واکنش‌گرایی (موبایل) */
@@ -155,4 +155,5 @@ header {
         }
         .team-card{
             background-color: rgb(245, 237, 220);
+
         }
